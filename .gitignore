@@ -4,6 +4,7 @@
 # Log file 
 *.log
 #sfdx./
+#sfdx.\
 
 # BlueJ files
 *.ctxt
